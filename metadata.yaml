@@ -1,10 +1,14 @@
 _repo: Michael-and-His-Lost-Angel-A-Play-in-Five-Acts_47331
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Knight, Joseph
     birthdate: 1845
     gutenberg_agent_id: '38267'
     url: http://www.gutenberg.org/2009/agents/38267
+covers:
+- cover_type: archival
+  image_path: 47331-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Henry Arthur
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '32584'
     url: http://www.gutenberg.org/2009/agents/32584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47331#Michael-and-His-Lost-Angel-A-Play-in-Five-Acts
 gutenberg_issued: '2014-11-11'
 gutenberg_type: Text
 identifiers:
